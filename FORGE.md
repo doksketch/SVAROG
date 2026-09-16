@@ -1,7 +1,7 @@
 # SVAROG: Executable Master Ontology and Governance Collection
 ## 1. Overview
 **SVAROG** is an executable master ontology and governance executable collection designed to sustain continuous activity systems. Rather than operating as a static software framework or a collection of architecture, software and infrastructure layers, SVAROG formalizes perimeter into a dynamic, scale-invariant projection of human-activity paradigms, cross-functional engineering boundaries, and strict cost laws. 
-The collection leverages the **system activity-thinking methodological approach** to eliminate ontological friction across fragmented organizational and technical domains. It establishes an executable, scale-invariant translations directly between divergent professional languages and activities. This layer synthesizes economic metrics, operational norms and runtime configurations, effectively bridging semantic disconnects to guarantee continuous, self-policing activity replication.
+The collection leverages the **system activity-thinking methodological approach(системомыследеятельностный подход)** to eliminate ontological friction across fragmented organizational and technical domains. It establishes an executable, scale-invariant translations directly between divergent professional languages and activities. This layer synthesizes economic metrics, operational norms and runtime configurations, effectively bridging semantic disconnects to guarantee continuous, self-policing activity replication.
 
 ## 2. Foundations
 
