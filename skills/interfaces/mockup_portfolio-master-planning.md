@@ -1,6 +1,6 @@
 ## 📊 SECTION 1: CORE SEMANTIC MULTIPLIERS (LEVERAGE DISPLAY)
 
-This widget matrix visualizes the aggregate health of the operational factory. The underlying Python-core calculates these variables on the fly by scanning child asset constraints and penalizing development lag (TTM) [Boehm, 1981].
+This widget matrix visualizes the aggregate health of the operational factory. The underlying Python-core calculates these variables on the fly by scanning child asset constraints and penalizing development lag (TTM).
 
 * **Financial Leverage [Target RIC Multiplier]:** `0.231`
     * *Systemic Signal:* **OPTIMAL COMPLIANCE BOUNDARY**. Infrastructure expenses and technical debt are successfully dissolved across the horizontal Plateau of Autonomy.
@@ -8,7 +8,7 @@ This widget matrix visualizes the aggregate health of the operational factory. T
     * *Systemic Signal:* **EVALUATED AS EFFICIENT**. Factor includes a strict 5% weekly penalty ($\alpha = 0.05$) for time-to-market latency controllers inside orange and red zones.
 * **Aggregate Portfolio Margin Lift:** `+$2,400,000`
 * **Total Approved Investment CapEx Step ($C_{\text{infra}}$):** `$555,000`
-    * *Allocation Profile:* Strictly fixed for discrete capacity steps ($C(N) = O(\lceil N/K \rceil)$) to eliminate linear payroll and compute drift.
+    * *Allocation Profile:* Strictly fixed for discrete capacity steps to eliminate linear payroll and compute drift.
 
 ---
 
